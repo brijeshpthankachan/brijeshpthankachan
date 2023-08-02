@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @brijeshpthankachan
-- 👀 I’m interested in ...
-- Technolgy, Science, Philosophy, History [ ...]
-- 🌱 I’m currently learning ...
-- .net core, angular, javascript, Typescript, css, scss, Html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```
+  ____  _     _   _   _  _____ 
+ / __ \| |   | | | \ | |/ ____|
+| |  | | |   | | |  \| | |  __ 
+| |  | | |   | | | . ` | | |_ |
+| |__| | |___| | | |\  | |__| |
+ \___\_\_____/  |_| \_|\_____|
+```
+
 
 <!---
 brijeshpthankachan/brijeshpthankachan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
